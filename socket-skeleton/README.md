@@ -1,4 +1,4 @@
-# Arena (WIP)
+# socket.io skeleton
 
-Program bots that fight eachother, multiplayer.
+A skeleton for creating new projects with node / socket / express
 
